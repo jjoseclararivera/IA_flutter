@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997636765509",
+    "firebase_url": "https://object-recognition-4b6d3.firebaseio.com",
+    "project_id": "object-recognition-4b6d3",
+    "storage_bucket": "object-recognition-4b6d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997636765509:android:f36083d329abc4e56f702c",
+        "android_client_info": {
+          "package_name": "com.example.modelingobject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997636765509-fbadqhpiufnueh2jpnii8kj26k1iphvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgONeDa478qcBAQkBfzEy5BSyHOYzlccs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997636765509-fbadqhpiufnueh2jpnii8kj26k1iphvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+name: modelingobject
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.3
+  font_awesome_flutter: ^8.8.1
+
+  firebase_ml_vision: ^0.9.6+2
+  camera: ^0.5.8+6
+  path_provider: ^1.6.17
+
+  firebase_database: ^4.0.0
+  firebase_storage: ^4.0.0
+  intl: ^0.16.1
+  image_picker: ^0.6.7+10
+
+  barcode_scan: ^3.0.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
