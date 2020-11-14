@@ -1,6 +1,7 @@
-# modelingobject
+# Flutter IA firebase
 
-A new Flutter project.
+Este proyecto tiene fines educativos para mostrar como leer un QR, barcode o abrir la camara desde tu mobil
+usando firebase.
 
 ## Getting Started
 
